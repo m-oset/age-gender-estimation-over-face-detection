@@ -1,4 +1,4 @@
-# age-gender-estimation-over-face-detection
+# Deep learning pipeline for Age & Gender Estimation over Face Detection
 Group university project.
 
 ## Overview
